@@ -1,4 +1,8 @@
-.logo {
+header {
     margin: 45px;
     margin-left: 140px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-item
 }
