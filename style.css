@@ -1,8 +1,17 @@
 header {
     margin: 45px;
     margin-left: 140px;
-    display: -webkit-flex;
-    display: -ms-flexbox;
+    width: 100%;    
     display: flex;
-    -ms-item
+    justify-content: ;
+}
+a {
+    text-decoration: none;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
